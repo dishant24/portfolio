@@ -23,7 +23,7 @@ Passionate and driven machine learning enthusiast with a robust academic foundat
 ## 🎓 Education
 **Master of Medical Image and Data Processing**  
 University of Erlangen-Nuremberg (Oct 2022 – Present)  
-- GPA: 2.7
+- GPA: 2.3
 - Focus: Pattern recognition, pattern analysis, deep learning, medical imaging, biosignal processing
 
 **Bachelor of Computer Engineering**  
