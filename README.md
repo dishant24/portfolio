@@ -1,4 +1,4 @@
-# Dishant Sutariya - Machine Learning Enthusiast
+# Dishantkumar Sutariya - Machine Learning Enthusiast
 
 ## 📞 Contact Information
 - **Phone:** +49 1624769215
