@@ -35,7 +35,7 @@ Gujarat Technological University (Aug 2017 – July 2021)
 **Machine Learning Intern**  
 Maruti Techlabs (Aug 2021 – Jul 2022)  
 - Conducted research and engineered machine learning models to solve complex problems
-- Implemented advanced data augmentation techniques resulting in a 15% improvement in F1 score and an 8% reduction in false negatives
+- Implemented advanced data augmentation techniques resulting in a 10% improvement in F1 score and an 8% reduction in false negatives
 - Optimized algorithms through hyper-parameter optimization and cross-validation, achieving a 6% increase in accuracy
 - Developed and compared models, with XGBoost achieving the highest accuracy of 92% for vehicle insurance prediction
 - Utilized repeated 10-fold cross-validation to report model performance metrics
@@ -45,16 +45,18 @@ Maruti Techlabs (Aug 2021 – Jul 2022)
 **University of Erlangen-Nuremberg (Mar 2024 – Present)**  
 Technologies Used: Python, PyTorch, Deep Learning, Diffusion model, Photon Counting CT  
 - Proposed a solution for PCCT images energy level conversion using a diffusion model
-- Utilized Vision Transformer (ViT) technique to generate high-quality images
+- Trained and optimized the model with MSE, SSIM, and perceptual loss metrics.
 - Employed classifier-free guidance method for conditioning on different energy levels
 - Collaborated with medical professionals to optimize tissue contrast and diagnostic accuracy
 
-### Real-Time Hand Gesture Based Drawing Webcam App
+### Lung Segmentation from CT Scans using Deep Learning
 **Personal Project (Jan 2024 – Mar 2024)**  
-Technologies Used: OpenCV, Python, Mediapipe  
-- Implemented real-time hand tracking and gesture recognition using OpenCV and Mediapipe
-- Enabled mode selection and drawing functionality through intuitive hand gestures
-- Integrated dynamic drawing tools, including adjustable brush and eraser thickness, and selectable color options
+Technologies Used: Python, TensorFlow, NumPy, Matplotlib, U-net  
+- Imported and processed DICOM-format CT scan data, applying techniques like data augmentation
+and contrast normalization to enhance segmentation results
+Trained the U-Net model to differentiate between lung tissue and surrounding anatomy
+– Evaluated the model performance using Dice Coefficient and Intersection over Union (IoU) metrics
+– Validate the segmentation results against manual annotations for clinical relevance
 
 ## 🏆 Additional Achievements
 ### Siemens Healthineers D & A Summer Challenge
