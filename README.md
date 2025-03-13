@@ -35,9 +35,9 @@ Gujarat Technological University (Aug 2017 – July 2021)
 
 ### **Thesis Student**  
 **Fraunhofer Institute for Digital Medicine MEVIS** *(Dec 2024 - Present)*  
-**Title:** *Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics*  
+- **Title:** *Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics*  
 - Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.  
-- Developed a preprocessing pipeline using histogram matching to mitigate racial and ethnic bias while preserving diagnostic accuracy.  
+- Developed a preprocessing pipeline using **histogram matching** to mitigate racial and ethnic bias while preserving diagnostic accuracy.  
 - Worked with the **CheXpert dataset** to assess the effectiveness of bias mitigation techniques.  
 - Evaluated the impact on model fairness and generalizability, ensuring more robust and equitable AI-driven medical diagnostics.  
 
@@ -54,7 +54,7 @@ Gujarat Technological University (Aug 2017 – July 2021)
 - Implemented **advanced data augmentation** techniques, resulting in a **10% improvement in F1 score** and an **8% reduction in false negatives**.  
 - Optimized algorithms through **hyper-parameter tuning** and **cross-validation**, achieving a **6% increase in accuracy**.  
 - Developed and compared models, with **XGBoost achieving 92% accuracy** for **vehicle insurance prediction**.  
-- Utilized **repeated 10-fold cross-validation** to report model performance metrics.  
+- Utilized **repeated 10-fold cross-validation** to report model performance metrics.
 
 
 ## 🚀 Projects
