@@ -10,9 +10,9 @@
 Passionate and driven machine learning enthusiast with a robust academic foundation and hands-on experience, eager to tackle complex challenges and drive innovation in AI. Seeking opportunities to apply cutting-edge techniques and explore the emerging frontiers of artificial intelligence.
 
 ## 🛠 Technical Skills
-- **Programming Languages:** Python, Java, SQL, C++
-- **Core Skills:** Data Processing, Data Cleaning, Data Analysis, Machine Learning, Deep Learning, Computer Vision, Docker, Git (Version Control)
-- **Advanced Libraries:** OpenCV, PyTorch, TensorFlow
+- **Programming Languages:** **Python**, Java, SQL, C++
+- **Core Skills:** Data Processing, Data Cleaning, **Data Analysis, Machine Learning, Deep Learning, Computer Vision**, Docker, Git (Version Control)
+- **Advanced Libraries:** **OpenCV, PyTorch, TensorFlow**
 - **Tools:** Jupyter Notebook, Visual Studio, Power BI, Microsoft Office
 - **Languages:** 
   - English (Fluent)
@@ -24,7 +24,7 @@ Passionate and driven machine learning enthusiast with a robust academic foundat
 **Master of Medical Image and Data Processing**  
 University of Erlangen-Nuremberg (Oct 2022 – Continue)  
 - GPA: 2.3
-- Focus: Pattern recognition, pattern analysis, deep learning, medical imaging, biosignal processing
+- Focus: **Pattern recognition, Pattern analysis, Deep learning, Medical imaging, Biosignal processing**
 
 **Bachelor of Computer Engineering**  
 Gujarat Technological University (Aug 2017 – July 2021)  
@@ -60,7 +60,7 @@ Gujarat Technological University (Aug 2017 – July 2021)
 ## 🚀 Projects
 ### Diffusion Model-Enabled Energy Level Transformation in PCCT
 **University of Erlangen-Nuremberg (Mar 2024 – Present)**  
-Technologies Used: Python, PyTorch, Deep Learning, Diffusion model, Photon Counting CT  
+Technologies Used: **Python, PyTorch, Deep Learning, Diffusion model**, Photon Counting CT  
 - Proposed a solution for PCCT images energy level conversion using a diffusion model
 - Trained and optimized the model with MSE, SSIM, and perceptual loss metrics.
 - Employed classifier-free guidance method for conditioning on different energy levels
@@ -68,7 +68,7 @@ Technologies Used: Python, PyTorch, Deep Learning, Diffusion model, Photon Count
 
 ### Lung Segmentation from CT Scans using Deep Learning
 **Personal Project (Jan 2024 – Mar 2024)**  
-Technologies Used: Python, TensorFlow, NumPy, Matplotlib, U-net  
+Technologies Used: **Python, TensorFlow**, NumPy, Matplotlib, U-net  
 - Imported and processed DICOM-format CT scan data, applying techniques like data augmentation
 and contrast normalization to enhance segmentation results
 Trained the U-Net model to differentiate between lung tissue and surrounding anatomy
