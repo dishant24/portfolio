@@ -22,7 +22,7 @@ Passionate and driven machine learning enthusiast with a robust academic foundat
 
 ## 🎓 Education
 **Master of Medical Image and Data Processing**  
-University of Erlangen-Nuremberg (Oct 2022 – Present)  
+University of Erlangen-Nuremberg (Oct 2022 – Continue)  
 - GPA: 2.3
 - Focus: Pattern recognition, pattern analysis, deep learning, medical imaging, biosignal processing
 
@@ -34,7 +34,7 @@ Gujarat Technological University (Aug 2017 – July 2021)
 ## 💼 Experience
 **Thesis Student**
 Fraunhofer Institute for Digital Medicine MEVIS (Dec 2024 - Continue)
-Title:**Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics**
+-  Title:Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics
   -Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.
   -Developed a preprocessing pipeline using histogram matching to mitigate racial and ethnic bias while preserving diagnostic accuracy.
   -Worked with the CheXpert dataset to assess the effectiveness of bias mitigation techniques.
@@ -46,6 +46,7 @@ Fraunhofer Institute for Digital Medicine MEVIS (Dec 2024 - Continue)
   -Implementing user-friendly features for customized data analysis, allowing users to select parameters and save figures.
   -Optimizing automation and efficiency to enhance the toolkit’s usability and ensure insightful, actionable results.
   -Contributing to a segmentation project, analyzing the impact of demographic attributes on diagnostic predictions and segmenting organs, particularly the liver.
+  
 **Machine Learning Intern**  
 Maruti Techlabs (Aug 2021 – Jul 2022)  
 - Conducted research and engineered machine learning models to solve complex problems
