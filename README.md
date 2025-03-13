@@ -31,29 +31,31 @@ Gujarat Technological University (Aug 2017 – July 2021)
 - GPA: 1.7
 - Major Project: Developed an Android application called "Tiffin Box"
 
-## 💼 Experience
-**Thesis Student**
-Fraunhofer Institute for Digital Medicine MEVIS (Dec 2024 - Continue)
--Title:Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics
--Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.
--Developed a preprocessing pipeline using histogram matching to mitigate racial and ethnic bias while preserving diagnostic accuracy.
--Worked with the CheXpert dataset to assess the effectiveness of bias mitigation techniques.
--Evaluated the impact on model fairness and generalizability, ensuring more robust and equitable AI-driven medical diagnostics.
+## 💼 Experience  
 
-**Working Student**
-Fraunhofer Institute for Digital Medicine MEVIS (Dec 2024 - Continue)
--Developing a Python-based toolkit for automated CSV file processing, data analysis, visualization, and report generation.
--Implementing user-friendly features for customized data analysis, allowing users to select parameters and save figures.
--Optimizing automation and efficiency to enhance the toolkit’s usability and ensure insightful, actionable results.
--Contributing to a segmentation project, analyzing the impact of demographic attributes on diagnostic predictions and segmenting organs, particularly the liver.
-  
-**Machine Learning Intern**  
-Maruti Techlabs (Aug 2021 – Jul 2022)  
-- Conducted research and engineered machine learning models to solve complex problems
-- Implemented advanced data augmentation techniques resulting in a 10% improvement in F1 score and an 8% reduction in false negatives
-- Optimized algorithms through hyper-parameter optimization and cross-validation, achieving a 6% increase in accuracy
-- Developed and compared models, with XGBoost achieving the highest accuracy of 92% for vehicle insurance prediction
-- Utilized repeated 10-fold cross-validation to report model performance metrics
+### **Thesis Student**  
+**Fraunhofer Institute for Digital Medicine MEVIS** *(Dec 2024 - Present)*  
+**Title:** *Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics*  
+- Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.  
+- Developed a preprocessing pipeline using histogram matching to mitigate racial and ethnic bias while preserving diagnostic accuracy.  
+- Worked with the **CheXpert dataset** to assess the effectiveness of bias mitigation techniques.  
+- Evaluated the impact on model fairness and generalizability, ensuring more robust and equitable AI-driven medical diagnostics.  
+
+### **Working Student**  
+**Fraunhofer Institute for Digital Medicine MEVIS** *(Dec 2024 - Present)*  
+- Developing a **Python-based toolkit** for automated **CSV file processing**, data analysis, visualization, and report generation.  
+- Implementing user-friendly features for customized data analysis, allowing users to select parameters and save figures.  
+- Optimizing automation and efficiency to enhance the toolkit’s usability and ensure insightful, actionable results.  
+- Contributing to a **segmentation project**, analyzing the impact of **demographic attributes** on diagnostic predictions and segmenting organs, particularly the **liver**.  
+
+### **Machine Learning Intern**  
+**Maruti Techlabs** *(Aug 2021 – Jul 2022)*  
+- Conducted research and engineered **machine learning models** to solve complex problems.  
+- Implemented **advanced data augmentation** techniques, resulting in a **10% improvement in F1 score** and an **8% reduction in false negatives**.  
+- Optimized algorithms through **hyper-parameter tuning** and **cross-validation**, achieving a **6% increase in accuracy**.  
+- Developed and compared models, with **XGBoost achieving 92% accuracy** for **vehicle insurance prediction**.  
+- Utilized **repeated 10-fold cross-validation** to report model performance metrics.  
+
 
 ## 🚀 Projects
 ### Diffusion Model-Enabled Energy Level Transformation in PCCT
