@@ -34,18 +34,18 @@ Gujarat Technological University (Aug 2017 – July 2021)
 ## 💼 Experience
 **Thesis Student**
 Fraunhofer Institute for Digital Medicine MEVIS (Dec 2024 - Continue)
--  Title:Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics
-  -Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.
-  -Developed a preprocessing pipeline using histogram matching to mitigate racial and ethnic bias while preserving diagnostic accuracy.
-  -Worked with the CheXpert dataset to assess the effectiveness of bias mitigation techniques.
-  -Evaluated the impact on model fairness and generalizability, ensuring more robust and equitable AI-driven medical diagnostics.
+-Title:Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics
+-Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.
+-Developed a preprocessing pipeline using histogram matching to mitigate racial and ethnic bias while preserving diagnostic accuracy.
+-Worked with the CheXpert dataset to assess the effectiveness of bias mitigation techniques.
+-Evaluated the impact on model fairness and generalizability, ensuring more robust and equitable AI-driven medical diagnostics.
 
 **Working Student**
 Fraunhofer Institute for Digital Medicine MEVIS (Dec 2024 - Continue)
-  -Developing a Python-based toolkit for automated CSV file processing, data analysis, visualization, and report generation.
-  -Implementing user-friendly features for customized data analysis, allowing users to select parameters and save figures.
-  -Optimizing automation and efficiency to enhance the toolkit’s usability and ensure insightful, actionable results.
-  -Contributing to a segmentation project, analyzing the impact of demographic attributes on diagnostic predictions and segmenting organs, particularly the liver.
+-Developing a Python-based toolkit for automated CSV file processing, data analysis, visualization, and report generation.
+-Implementing user-friendly features for customized data analysis, allowing users to select parameters and save figures.
+-Optimizing automation and efficiency to enhance the toolkit’s usability and ensure insightful, actionable results.
+-Contributing to a segmentation project, analyzing the impact of demographic attributes on diagnostic predictions and segmenting organs, particularly the liver.
   
 **Machine Learning Intern**  
 Maruti Techlabs (Aug 2021 – Jul 2022)  
