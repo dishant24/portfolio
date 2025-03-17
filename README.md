@@ -65,6 +65,7 @@ Technologies Used: **Python, PyTorch, Deep Learning, Diffusion model**, Photon C
 - Trained and optimized the model with MSE, SSIM, and perceptual loss metrics.
 - Employed classifier-free guidance method for conditioning on different energy levels
 - Collaborated with medical professionals to optimize tissue contrast and diagnostic accuracy
+🔗 [GitHub Repository](https://github.com/dishant24/pcct_project)
 
 ### Lung Segmentation from CT Scans using Deep Learning
 **Personal Project (Jan 2024 – Mar 2024)**  
