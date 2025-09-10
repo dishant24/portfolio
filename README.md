@@ -1,4 +1,4 @@
-# Dishantkumar Sutariya - Machine Learning Enthusiast
+# Dishantkumar Sutariya - Biomedical AI and Deep Learning Specialist
 
 ## 📞 Contact Information
 - **Phone:** +49 1624769215
@@ -7,75 +7,67 @@
 - **Location:** Bremen, Germany
 
 ## 📝 Summary
-Passionate and driven machine learning enthusiast with a robust academic foundation and hands-on experience, eager to tackle complex challenges and drive innovation in AI. Seeking opportunities to apply cutting-edge techniques and explore the emerging frontiers of artificial intelligence.
+Innovative AI and Deep Learning specialist with a Master's degree in Medical Image and Data Processing from FAU Erlangen-Nuremberg. Expertise in developing end-to-end deep learning solutions for medical imaging and healthcare, from prediction, segmentation to generative diffusion models, with a proven focus on model validation and algorithmic fairness. Seeking a challenging full-time role to build next-generation medical AI systems.
 
 ## 🛠 Technical Skills
-- **Programming Languages:** **Python**, Java, SQL, C++
-- **Core Skills:** Data Processing, Data Cleaning, **Data Analysis, Machine Learning, Deep Learning, Computer Vision**, Docker, Git (Version Control)
-- **Advanced Libraries:** **OpenCV, PyTorch, TensorFlow**
-- **Tools:** Jupyter Notebook, Visual Studio, Power BI, Microsoft Office
-- **Languages:** 
-  - English (Fluent)
-  - German (A2)
-  - Hindi (Fluent)
-  - Gujarati (Mother Tongue)
+- **Programming:** **Python**, Java, SQL, C++
+- **Deep Learning & Computer Vision:** **PyTorch, TensorFlow, Generative AI (Diffusion Models), Transformers (ViT), U-Net, Computer Vision, Image Segmentation & Classification**
+- **Machine Learning & Data Science:** **Scikit-learn, Pandas, NumPy**, Matplotlib, Plotly
+- **Medical Imaging & Packages:** **DICOM, CT, X-ray, pydicom, SimpleITK**
+- **Developer Tools & Platforms:** **Git, Docker**, VS Code, Jupyter Notebook, Power BI, experiment tracking (Weights & Biases / MLflow)
+- **Soft Skills:** Self-motivated, Adaptability, Independent, Collaboration & Teamwork
+- **Languages:** English (Fluent - B2), German (Basic - A2), Gujarati (Mother tongue), Hindi (Native)
 
-## 🎓 Education
+  ## 🎓 Education
 **Master of Medical Image and Data Processing**  
-University of Erlangen-Nuremberg (Oct 2022 – Continue)  
-- GPA: 2.3
-- Focus: **Pattern recognition, Pattern analysis, Deep learning, Medical imaging, Biosignal processing**
+University of Erlangen-Nürnberg (October 2022 – September 2025)
+**Thesis:** **"Improving Generalization and Robustness of Chest X-ray AI Models via Preprocessing, Calibration, and Fairness-aware Evaluation" (hosted at Fraunhofer MEVIS)**
+- Relevant coursework: **Deep Learning, Medical Image Computing, Imaging Modalities, Image Registration, Image Processing, Optimization**
+- **GPA: 2.2**
 
-**Bachelor of Computer Engineering**  
-Gujarat Technological University (Aug 2017 – July 2021)  
-- GPA: 1.7
-- Major Project: Developed an Android application called "Tiffin Box"
+**Bachelor of Computer Engineering**
+Gujarat Technological University (August 2017 – July 2021)  
+- **Relevant coursework:** **Data Structures and Algorithms, Java, C++, Machine Learning, Database Systems, Computer Networks, Mathematics**
+- **GPA: 1.7**
 
-## 💼 Experience  
-
-### **Thesis Student**  
-**Fraunhofer Institute for Digital Medicine MEVIS** *(Dec 2024 - Present)*  
-- **Title:** *Leveraging Histogram Matching to Mitigate Racial and Ethnic Bias in Chest X-ray AI Models for More Robust, Generalizable, and Fair Diagnostics*  
-- Researched demographic bias in AI-driven chest X-ray diagnosis, analyzing the impact of race and ethnicity on model predictions.  
-- Developed a preprocessing pipeline using **histogram matching** to mitigate racial and ethnic bias while preserving diagnostic accuracy.  
-- Worked with the **CheXpert dataset** to assess the effectiveness of bias mitigation techniques.  
-- Evaluated the impact on model fairness and generalizability, ensuring more robust and equitable AI-driven medical diagnostics.  
-
+## 💼 Experience 
 ### **Working Student**  
 **Fraunhofer Institute for Digital Medicine MEVIS** *(Dec 2024 - Present)*  
-- Developing a **Python-based toolkit** for automated **CSV file processing**, data analysis, visualization, and report generation.  
-- Implementing user-friendly features for customized data analysis, allowing users to select parameters and save figures.  
-- Optimizing automation and efficiency to enhance the toolkit’s usability and ensure insightful, actionable results.  
-- Contributing to a **segmentation project**, analyzing the impact of **demographic attributes** on diagnostic predictions and segmenting organs, particularly the **liver**.  
+- Engineered a Python-based statistical toolkit to rigorously assess ML model fairness and performance across diverse patient subgroups on CheXpert and MIMIC-CXR datasets
+- Implemented advanced validation metrics, including AUROC, Precision-Recall Gain (PRG), and uncertainty estimation with multiple comparison correction, to identify and quantify performance disparities
+- Developed interactive Plotly dashboards (parallel coordinates, ROC/PR) enabling faster bias reviews and saving 5 hours/week of manual analysis
+- Applied the toolkit to real-world datasets (Chexpert, MIMIC-CXR), uncovering intersectional disparities in disease classification models and supporting fairness analysis
+
+### **Thesis Student**  
+**Fraunhofer Institute for Digital Medicine MEVIS** *(December 2024 - August 2025)*  
+- **Title: Improving Generalization and Robustness of Chest X-ray AI Models: Preprocessing Methods to Mitigate Racial Bias**
+- Implemented lung segmentation/masking and intensity normalization (CLAHE, histogram matching) to reduce spurious correlations and site/device shift.
+- Trained DenseNet-121 on CheXpert; validated on MIMIC-CXR with subgroup-stratified metrics.
+- Integrated model calibration (Isotonic Regression) to improve fairness and reliability in real-world deployment scenarios.
+- Technologies: Python, Deep Learning (DenseNet121), CLAHE, Histogram Matching, Lung Segmentation, Model Optimization, Model Calibration
 
 ### **Machine Learning Intern**  
 **Maruti Techlabs** *(Aug 2021 – Jul 2022)*  
-- Conducted research and engineered **machine learning models** to solve complex problems.  
-- Implemented **advanced data augmentation** techniques, resulting in a **10% improvement in F1 score** and an **8% reduction in false negatives**.  
-- Optimized algorithms through **hyper-parameter tuning** and **cross-validation**, achieving a **6% increase in accuracy**.  
-- Developed and compared models, with **XGBoost achieving 92% accuracy** for **vehicle insurance prediction**.  
-- Utilized **repeated 10-fold cross-validation** to report model performance metrics.
-
+- Resolved critical class imbalance in the vehicle insurance dataset by implementing SMOTE, which improved the F1-score by 10% and reduced false negatives by 8%.
+- Boosted overall model accuracy by 6% through systematic hyperparameter tuning and 10-fold cross-validation.
+- Conducted a comparative analysis of Logistic Regression, Random Forest, and XGBoost, identifying XGBoost as the optimal model with 92% predictive accuracy.
+- Technologies: Python, scikit-learn, XGBoost, imbalanced-learn (SMOTE), pandas, NumPy
 
 ## 🚀 Projects
 ### Diffusion Model-Enabled Energy Level Transformation in PCCT
-**University of Erlangen-Nuremberg (Mar 2024 – Present)**  
-Technologies Used: **Python, PyTorch, Deep Learning, Diffusion model**, Photon Counting CT  
-- Proposed a solution for PCCT images energy level conversion using a diffusion model
-- Trained and optimized the model with MSE, SSIM, and perceptual loss metrics.
-- Employed classifier-free guidance method for conditioning on different energy levels
-- Collaborated with medical professionals to optimize tissue contrast and diagnostic accuracy
-  
-🔗 [GitHub Repository](https://github.com/dishant24/pcct_project)
+**University of Erlangen-Nuremberg (March 2024 – November 2024)**  
+- Developed a conditional diffusion model in PyTorch to address the challenge of transforming PCCT images across different energy levels, crucial for material decomposition and artifact reduction.
+- Engineered a robust training pipeline leveraging classifier-free guidance for precise control and optimized the model using a combination of MSE, SSIM, and perceptual loss functions.
+- Successfully demonstrated the model’s capability to generate high-fidelity, physically plausible image transformations, showcasing its potential for clinical application, although high-frequency noise introduced artifacts.
+- Technologies Used: Python, PyTorch, Deep Learning, Vision Transformer, Diffusion Model, Photon Counting CT
+- 🔗 [GitHub Repository](https://github.com/dishant24/pcct_project)
 
 ### Lung Segmentation from CT Scans using Deep Learning
-**Personal Project (Jan 2024 – Mar 2024)**  
-Technologies Used: **Python, TensorFlow**, NumPy, Matplotlib, U-net  
-- Imported and processed DICOM-format CT scan data, applying techniques like data augmentation
-and contrast normalization to enhance segmentation results
-Trained the U-Net model to differentiate between lung tissue and surrounding anatomy
-– Evaluated the model performance using Dice Coefficient and Intersection over Union (IoU) metrics
-– Validate the segmentation results against manual annotations for clinical relevance
+**Personal Project (October 2024 – March 2024)**  
+- Built and trained a U-Net model in TensorFlow to fully automate the segmentation of lungs from DICOM-format CT scans, a foundational step for quantitative image analysis.
+- Implemented a comprehensive data preprocessing pipeline and data augmentation to improve model generalization and robustness against variations in scan quality.
+- Achieved a Dice Coefficient of 90%, demonstrating highly accurate and reliable segmentation performance suitable for downstream diagnostic tasks.
+- Technologies Used: Python, TensorFlow, NumPy, Matplotlib, U-net, DICOM, Image Segmentation, Scikit-image
 
 ## 🏆 Additional Achievements
 ### Siemens Healthineers D & A Summer Challenge
